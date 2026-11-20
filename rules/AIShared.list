@@ -1,0 +1,20 @@
+# Surge domain rules: AIShared.list
+# Shared by [Rule] routing and [Host] encrypted DNS.
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,ct.sendgrid.net
+DOMAIN,events.statsigapi.net
+DOMAIN,challenges.cloudflare.com
+DOMAIN,cdn.workos.com
+DOMAIN,forwarder.workos.com
+DOMAIN,frontend-apps-multi-region.workos.com
+DOMAIN,setup.workos.com
+DOMAIN,images.workoscdn.com
+DOMAIN,workos.imgix.net
+DOMAIN,js.stripe.com
+DOMAIN,o207216.ingest.sentry.io
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,rum.browser-intake-datadoghq.com
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,api.statsig.com
+DOMAIN-SUFFIX,featuregates.org

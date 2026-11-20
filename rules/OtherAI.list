@@ -1,0 +1,18 @@
+# Surge domain rules: OtherAI.list
+# Shared by [Rule] routing and [Host] encrypted DNS.
+DOMAIN,api.jetbrains.ai
+DOMAIN,gateway.ai.cloudflare.com
+DOMAIN,inference.codeium.com
+DOMAIN,server.codeium.com
+DOMAIN,server.self-serve.windsurf.com
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,g.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,jasper.ai
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,clipdrop.co
