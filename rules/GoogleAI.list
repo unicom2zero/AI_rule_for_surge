@@ -27,6 +27,8 @@ DOMAIN,colab.research.google.com
 DOMAIN,colab.google
 DOMAIN,developerprofiles-pa.googleapis.com
 DOMAIN,oauth2.googleapis.com
+DOMAIN,www.googleapis.com
+DOMAIN,lh3.googleusercontent.com
 DOMAIN,cloudcode-pa.googleapis.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN,antigravity-unleash.goog
